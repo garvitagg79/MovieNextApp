@@ -1,0 +1,161 @@
+[
+    {
+      "id": 1,
+      "franchise": "Marvel",
+      "title": "Avengers: Endgame",
+      "poster": "https://resizing.flixster.com/2yTtbYaljlzWgEhOCUTrH55jjfM=/206x305/v2/https://resizing.flixster.com/fC7nU6iTRQk02tS0SDS1ylx-G34=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2QxZjE5ZDgzLTRiY2MtNDFkYS04NWQ4LTRkYzc1ZTAwNWE2NC53ZWJw",
+      "trailer": "https://www.youtube.com/watch?v=TcMBFSGVi1c&pp=ygUYYXZlbmdlcnMgZW5kZ2FtZSB0cmFpbGVy",
+      "rating": "9.4",
+      "category": "IronMan#Marvel#Avengers#CaptainAmerica#Thor#BlackWidow#Hawkeye#DoctorStrange#SpiderMan#BlackPanther#CaptainMarvel#AntMan#GuardiansOfTheGalaxy",
+      "status": "Released",
+      "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+      "platform": "Jio Hotstar",
+      "releaseDate": "2019-04-26",
+      "duration": "3h 1m",
+      "link": "https://www.hotstar.com/in/movies/avengers-endgame/1260013556",
+      "cast": [
+        { "name": "Robert Downey Jr.", "role": "iron man", "image": "https://resizing.flixster.com/5Kz793p_24A7Q6ZKN4B201L8UZo=/100x120/v2/https://resizing.flixster.com/OOPw6FXLl1dvZXrlE73jckDTzpc=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvYTUxYzhlNTctMzg2OS00YWJjLWEwYmEtOWY1ZjE0Njg2ZWVlLmpwZw==" },
+        { "name": "Chris Evans", "role": "captain america", "image": "https://resizing.flixster.com/m1W5hUE3Oz48UiCcprRD9SDP-8E=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/173489_v9_bc.jpg" },
+        { "name": "Mark Ruffalo", "role": "professor hulk", "image": "https://resizing.flixster.com/gRMa4rDu0rt2-oabA8Sx5DvKv50=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/43389_v9_bd.jpg" },
+        { "name": "Chris Hemsworth", "role": "thor", "image": "https://resizing.flixster.com/t1ZUvl4eJFrsXczDqxbqO4fPYhY=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/528854_v9_bb.jpg" }
+      ]
+    },
+    {
+      "id": 2,
+      "franchise": "Marvel",
+      "title": "Avengers: Doomsday",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGNiN2RlZTMtMTkyZC00YjkwLTgyY2QtMDg1ZDNhODQwNWM4XkEyXkFqcGc@._V1_FMjpg_UY3840_.jpg",
+      "trailer": "https://www.youtube.com/watch?v=aZXBFirj6b4&pp=ygUZYXZlbmdlcnMgZG9vbXNkYXkgdHJhaWxlcg%3D%3D",
+      "rating": "0.0",
+      "category": "IronMan#Marvel#Avengers#CaptainAmerica#Thor#BlackWidow#Hawkeye#DoctorStrange#SpiderMan#BlackPanther#CaptainMarvel#AntMan#GuardiansOfTheGalaxy",
+      "status": "Coming Soon",
+      "synopsis": "The next installment in the Avengers franchise.",
+      "platform": "BookMyShow",
+      "releaseDate": "2026-05-01",
+      "duration": "",
+      "link": "https://in.bookmyshow.com/movies/delhi-ncr/avengers-doomsday/ET00439706?type=coming-soon",
+      "cast": [
+        { "name": "Robert Downey Jr.", "role": "dr. doom", "image": "https://resizing.flixster.com/5Kz793p_24A7Q6ZKN4B201L8UZo=/100x120/v2/https://resizing.flixster.com/OOPw6FXLl1dvZXrlE73jckDTzpc=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvYTUxYzhlNTctMzg2OS00YWJjLWEwYmEtOWY1ZjE0Njg2ZWVlLmpwZw==" },
+        { "name": "Anthony Mackie", "role": "captain america", "image": "https://resizing.flixster.com/PkfIGJ_GQiX1tLPT28nuPuewUMQ=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/308495_v9_bc.jpg" },
+        { "name": "Pedro Pascal", "role": "mr. fantastic", "image": "https://resizing.flixster.com/s6SrOWy9JReQwVCRq8TI2S_tBn8=/68x102/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/494807_v9_bd.jpg" },
+        { "name": "Chris Hemsworth", "role": "thor", "image": "https://resizing.flixster.com/t1ZUvl4eJFrsXczDqxbqO4fPYhY=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/528854_v9_bb.jpg" }
+      ]
+    },
+    {
+      "id": 3,
+      "franchise": "Marvel",
+      "title": "Thunderbolts*",
+      "poster": "https://resizing.flixster.com/KQ23z5FwNd3noiTHL68C1nOcl8Q=/206x305/v2/https://resizing.flixster.com/9GzvfSWe1iPtRk_vtcfpHIQGyCI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2U2MzgyZDIyLWNjZmYtNGU5NS05ZjczLTYyZGE1ZGIyYzIxNC5qcGc=",
+      "trailer": "https://youtu.be/U7f7VLRcMOE",
+      "rating": "8.1",
+      "category": "Sentry#Marvel#Avengers#WinterSoldier#RedGuardian#BlackWidow#Void#Ghost#Taskmaster#YelenaBelova",
+      "status": "In Theaters",
+      "platform": "BookMyShow",
+      "releaseDate": "2025-05-01",
+      "duration": "2h 7m",
+      "link": "https://in.bookmyshow.com/movies/delhi-ncr/thunderbolts/ET00413426",
+      "synopsis": "Thunderbolts* are the *New Avengers who mix grit with wit as they bring a new hope to the world.",
+      "cast": [
+        { "name": "Florence Pugh", "role": "yelena belova", "image": "https://resizing.flixster.com/pGtA5jDBV17nP5sR6MB_XWS9DKg=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/872667_v9_bc.jpg" },
+        { "name": "Sebastian Stan", "role": "bucky", "image": "https://resizing.flixster.com/xoIrjnrXtGJ6hLJtCf7V0mhpufU=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/490465_v9_bc.jpg" },
+        { "name": "David Harbour", "role": "red guardian", "image": "https://resizing.flixster.com/iOB5lVdH_kRHq46mGMkpLxBknRk=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/277640_v9_bb.jpg" }
+      ]
+    },
+    {
+      "id": 4,
+      "franchise": "Sony",
+      "title": "Spider-Man: Homecoming",
+      "poster": "https://resizing.flixster.com/FvwtIbm77-sXnBU1gZpL8OsDHVg=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p12798844_p_v8_ao.jpg",
+      "trailer": "https://youtu.be/Pik8DPmrt2k",
+      "rating": "7.4",
+      "category": "IronMan#Spiderman#Vulture#PeterParker#Marvel",
+      "status": "Released",
+      "platform": "Jio Hotstar",
+      "releaseDate": "2017-07-07",
+      "duration": "2h 13m",
+      "link": "https://www.hotstar.com/in/movies/spider-man-homecoming/1971011176",
+      "synopsis": "After being with the Avengers, Peter wants to prove he is more than a friendly neighborhood Spider-Man. But when the Vulture emerges, all that Peter holds important is threatened.",
+      "cast": [
+        { "name": "Tom Holland", "role": "spiderman", "image": "https://resizing.flixster.com/17Nq5O2PhV4wgZOM6N9afeteCTk=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/733885_v9_bc.jpg" },
+        { "name": "Robert Downey Jr.", "role": "iron man", "image": "https://resizing.flixster.com/5Kz793p_24A7Q6ZKN4B201L8UZo=/100x120/v2/https://resizing.flixster.com/OOPw6FXLl1dvZXrlE73jckDTzpc=/ems.cHJkLWVtcy1hc3NldHMvY2VsZWJyaXRpZXMvYTUxYzhlNTctMzg2OS00YWJjLWEwYmEtOWY1ZjE0Njg2ZWVlLmpwZw==" },
+        { "name": "Michael Keaton", "role": "vulture", "image": "https://resizing.flixster.com/ApsDmTTRCJEBTJL6KgHkJ-bkbbE=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/45497_v9_bb.jpg" }
+      ]
+    },
+    {
+      "id": 5,
+      "franchise": "Sony",
+      "title": "Spider-Man",
+      "poster": "https://resizing.flixster.com/iBPi8jYYfJgouPuxoKHMcg6vme4=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p29821_p_v13_ai.jpg",
+      "trailer": "https://youtu.be/m4C2Rfsq22U",
+      "rating": "7.4",
+      "category": "GreenGoblin#Spiderman#PeterParker#Marvel",
+      "status": "Released",
+      "platform": "Jio Hotstar",
+      "releaseDate": "2002-05-24",
+      "duration": "2h 1m",
+      "link": "https://www.hotstar.com/in/movies/spider-man/1971001901",
+      "synopsis": "Teenager Peter Parker becomes a superhero after he is bitten by a radioactive spider. He sets about ridding the streets of crime and going up against super-villain Green Goblin.",
+      "cast": [
+        { "name": "Tobey Maguire", "role": "spiderman", "image": "https://resizing.flixster.com/_KIJSo-s4AknZch6H_ZyUzLQo_Y=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/74064_v9_bc.jpg" },
+        { "name": "Willem Dafoe", "role": "green goblin", "image": "https://resizing.flixster.com/Z0AtgqXLaz6BQgmJpR4xh2JGh5g=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/393_v9_bb.jpg" },
+        { "name": "Kirsten Dunst", "role": "mary jane", "image": "https://resizing.flixster.com/K1_UJSQEvET7vqUj9bBitEqCbSY=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/73951_v9_bb.jpg" }
+      ]
+    },
+    {
+      "id": 6,
+      "franchise": "DC",
+      "title": "Superman",
+      "poster": "https://resizing.flixster.com/SZJB_f6AKtKB1_i7hDLKFjloeuc=/206x305/v2/https://resizing.flixster.com/08R7NSRbZV4s8n5wlLgZLVyMrZ0=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzBhZDkzNTk2LTk3MzktNDY0ZS1hN2NkLWFkMmQxMDc3MjAzOC5qcGc=",
+      "trailer": "https://youtu.be/JWffT_fhqI8",
+      "rating": "0.0",
+      "category": "#Superman#LexLuthor#LoisLane#ClarkKent#GreenLantern#DC",
+      "status": "Coming Soon",
+      "platform": "BookMyShow",
+      "releaseDate": "2025-07-11",
+      "duration": "",
+      "link": "https://in.bookmyshow.com/movies/delhi-ncr/superman/ET00397464?type=coming-soon",
+      "synopsis": "David Corenswet takes flight as the iconic Clark Kent/Superman/Kal-El under the direction of James Gunn.",
+      "cast": [
+        { "name": "David Corenswet", "role": "superman", "image": "https://resizing.flixster.com/ClFcljbjr4NP3Bq4hj3L8c24jmw=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/1049340_v9_ba.jpg" },
+        { "name": "Rachel Brosnahan", "role": "lois lane", "image": "https://resizing.flixster.com/UiYw7gna4UEqAP3DPIfWF8l3dzI=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/534862_v9_bc.jpg" }
+      ]
+    },
+    {
+      "id": 7,
+      "franchise": "Marvel",
+      "title": "Loki",
+      "poster": "https://resizing.flixster.com/fF-FnA3zEkWRoLY9drrcbAqorCY=/206x305/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19575003_b_v13_aa.jpg",
+      "trailer": "https://www.youtube.com/watch?v=nW948Va-l10",
+      "rating": "9.0",
+      "category": "#Marvel#Loki#Thor#GodOfMischief#TVA#TimeVarianceAuthority#MCU#KangTheConqueror#Sylvie",
+      "status": "Released",
+      "platform": "Jio Hotstar",
+      "releaseDate": "2021-05-12",
+      "duration": "5h 12m",
+      "link": "https://www.hotstar.com/in/shows/loki/1260063451",
+      "synopsis": "Loki, the God of Mischief, steps out of his brother's shadow to embark on an adventure that takes place after the events of Avengers: Endgame.",
+      "cast": [
+        { "name": "Tom Hiddleston", "role": "loki", "image": "https://resizing.flixster.com/qBW4DyH0E194TmYwO8NS_z8jnrs=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/286678_v9_bc.jpg" },
+        { "name": "Sophia Di Martino", "role": "sylvie", "image": "https://resizing.flixster.com/LVNivFLbNpbCG1yBIsunw06F3N8=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/576641_v9_bb.jpg" }
+      ]
+    },
+    {
+      "id": 8,
+      "franchise": "DC",
+      "title": "The Penguin",
+      "poster": "https://resizing.flixster.com/sFxL9qH3ds4yvr1p2kVvG-Oq7Y8=/206x305/v2/https://resizing.flixster.com/ZW4jkZVBtSklRr8ePadVJy4Ibpg=/ems.cHJkLWVtcy1hc3NldHMvdHZzZXJpZXMvN2NhMWNiOTYtZjRmYi00NjUyLTk4ZDMtYmYyNjg5YzY0YzU5LmpwZw==",
+      "trailer": "https://www.youtube.com/watch?v=sfJG6IiA_s8",
+      "rating": "8.4",
+      "category": "#DC#Penguin#Gotham#Crime#Batman",
+      "status": "Released",
+      "platform": "Jio Hotstar",
+      "releaseDate": "2024-09-19",
+      "duration": "7h 42m",
+      "link": "https://www.hotstar.com/in/shows/the-penguin/1971003606",
+      "synopsis": "The next chapter in The Batman saga, this crime drama follows Oz Cobbs quest for power and control in Gotham City.",
+      "cast": [
+        { "name": "Colin Farrell", "role": "penguin", "image": "https://resizing.flixster.com/y8s_SlLdQIdPwrxY22m9a2473KY=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/199695_v9_ba.jpg" },
+        { "name": "Cristin Milioti", "role": "sofia falcone", "image": "https://resizing.flixster.com/vSw5Wjb4TjaaGsD6cIZEFCA_reM=/100x120/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/544904_v9_bb.jpg" }
+      ]
+    }
+  ]
