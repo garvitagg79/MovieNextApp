@@ -1,6 +1,6 @@
 import moviesData from "@/assets/data/movies.json";
-import { Dimensions, FlatList, Image, Text, TouchableOpacity, View } from "react-native";
 import { useRouter } from "expo-router";
+import { Dimensions, FlatList, Image, Text, TouchableOpacity, View } from "react-native";
 
 const {width} = Dimensions.get("window");
 const CARD_WIDTH = (width-48) / 2;
@@ -18,35 +18,29 @@ export default function HomeScreen() {
             showsVerticalScrollIndicator={false}
             renderItem={({ item }) => (
                 <TouchableOpacity style={{width: CARD_WIDTH}} onPress={() => router.push(`/movie/${item.id}`)}>
-                    <View style={{position: "relative"}}>
+                    <View className="relative">
                         <Image
                             source={{ uri: item.poster }}
                             style={{
                                 width: CARD_WIDTH,
                                 height: CARD_WIDTH * 1.5,
-                                borderRadius: 16,
                             }}
+                            className="rounded-lg"
                             resizeMode="cover"
                         />
-                        <View style={{position: "absolute", top: 8, left: 8, backgroundColor: '#0009', padding: 4, borderRadius: 8}}>  
-                            <Text style={{color: "white"}}>{item.rating}</Text>
+                        <View className="absolute top-2 left-2 bg-black/60 px-2 py-1 rounded-lg">  
+                            <Text className="text-white">{item.rating}</Text>
                         </View>
-                        <View style={{position: "absolute", top: 8, right: 8, backgroundColor: '#0009', padding: 4, borderRadius: 8}}>  
-                            <Text style={{color: "white"}}>{item.franchise}</Text>
+                        <View className="absolute top-2 right-2 bg-black/60 px-2 py-1 rounded-lg">  
+                            <Text className="text-white">{item.franchise}</Text>
                         </View>
-                        <View style={{
-                            position: "absolute",
-                            bottom: 0,
-                            width: "100%",
-                            padding: 8,
-                            backgroundColor: "#0009",
-                            borderBottomLeftRadius: 16,
-                            borderBottomRightRadius: 16
-                        }}>
-                            <Text style={{color: "white", textAlign: "center", fontSize: 14}}>{item.status}</Text>
+                        <View
+                        className="absolute bottom-0 w-full px-2 py-2 bg-black/60 rounded-lg"
+                        >
+                            <Text className="text-white text-center">{item.status}</Text>
                         </View>
                     </View>
-                    <Text style={{marginTop: 8, fontWeight: 'bold', textAlign: "center"}}>{item.title}</Text>
+                    <Text className="mt-2 text-center font-semibold">{item.title}</Text>
                 </TouchableOpacity>
             )}
         />
