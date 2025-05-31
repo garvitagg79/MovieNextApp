@@ -1,11 +1,21 @@
 import moviesData from '@/assets/data/movies.json';
 import * as Linking from 'expo-linking';
-import { useLocalSearchParams } from 'expo-router';
+import { useLocalSearchParams, useNavigation } from 'expo-router';
+import { useLayoutEffect } from 'react';
 import { FlatList, Image, ScrollView, Text, TouchableOpacity, View } from 'react-native';
 
 export default function MovieDetail() {
   const { id } = useLocalSearchParams();
   const movie = moviesData.find((m: any) => m.id.toString() === id);
+  const navigation = useNavigation();
+
+  useLayoutEffect(() => {
+    if (movie) {
+      navigation.setOptions({
+        title: movie.title,
+      });
+    }
+  }, [movie])
 
   if (!movie) return <Text>Movie not found</Text>;
 
