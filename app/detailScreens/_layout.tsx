@@ -7,6 +7,9 @@ export default function DetailScreenLayout() {
             headerShown: true
         }}>
             <Stack.Screen name="movie/[id]" options={{
+                headerTitleStyle: { fontSize: 20, fontWeight: 'bold' }
+            }}/>
+            <Stack.Screen name="category/[category]" options={{
                 headerTitleStyle: { fontSize: 20, fontWeight: 'bold' },
               headerLeft: () => {
                 const navigation = useNavigation();
